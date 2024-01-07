@@ -1,4 +1,8 @@
-### Hi there 👋
+### heyo👋
+
+the name's mochi. I'm 13 and an intermediate programmer working on small projects.
+
+⚡i'll be using he/him pronouns ^^
 
 <!--
 **mochimania112/mochimania112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
